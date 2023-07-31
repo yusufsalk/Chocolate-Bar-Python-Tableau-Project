@@ -1,4 +1,4 @@
-# ChocolateBar-Python&Tableau-Project
+# Chocolate-Bar-Python&Tableau-Project
 Python code for chocolate bar analysis as part of careerFoundry data analytics course.
 
 Chocolate is one of the most popular candies in the world. Each year, residents of the United States collectively eat more than 2.8 billion pounds. However, not all chocolate bars are created equal. In this case study, the objective is to explore what informs the rating of chocolate bars.
